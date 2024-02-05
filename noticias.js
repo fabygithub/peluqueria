@@ -6,4 +6,3 @@ Jodie Foster (61 años), Andie McDowell (65), Sarah Jessica Parker (58) o Jamie 
 
 Y es que tu cabello gris, blanco o salpimentado con algunos mechones canosos ya no es un problema. Dile adiós al tinte y opta por tratamientos y trucos para que luzcan mejor, por ejemplo con los consejos de la firma de champús sin sulfatos Dalire o de los salones David Künzle y Sonia Atanes Hair Beauty en Madrid.
 
-El encanecimiento del cabello es el resultado de un proceso de envejecimiento natural que sin embargo, puede verse influido por muchos factores. Algunas las vemos aparecer pronto y en otras pasada cierta edad, es una cuestión de ADN y genética, pero este proceso también depende en parte de la nutrición, los desequilibrios hormonales, el estrés y algunos tipos de patologías
