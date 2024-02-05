@@ -11,3 +11,7 @@ function b(){
 }
 
 
+function c(){
+	 window.open("https://fabygithub.github.io/peluqueria/noticias.html", "iframe");
+}
+
