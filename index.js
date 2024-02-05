@@ -1,7 +1,7 @@
 /*
 function a() {
 var iframe = document.getElementById("iframe");
-iframe.src = "https://rudo.video/live/tvu"
+iframe.src = "https://www.aulafacil.com/uploads/cursos/6687/29098_ocdavv0.jpg"
 }
 
 
