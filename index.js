@@ -1,7 +1,7 @@
 
 
 function a(){
-		 window.open("https://www.aulafacil.com/uploads/cursos/6687/29098_ocdavv0.jpg", "iframe");
+		 window.open("https://fabygithub.github.io/peluqueria/introduccion.html", "iframe");
 }
 
 
