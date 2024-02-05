@@ -7,7 +7,7 @@ iframe.src = "https://rudo.video/live/tvu"
 
 function b() {
 var iframe = document.getElementById("iframe");
-iframe.src = "https://rudo.video/live/ucvtv2"
+iframe.src = "https://s1.elespanol.com/2023/12/07/corazon/estilo/815429088_238246449_1706x960.jpg"
 }
 
 
