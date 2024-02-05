@@ -1,13 +1,13 @@
 /*
 function a() {
 var iframe = document.getElementById("iframe");
-iframe.src = "https://www.aulafacil.com/uploads/cursos/6687/29098_ocdavv0.jpg"
+iframe.src = "https://rudo.video/live/tvu"
 }
 
 
 function b() {
 var iframe = document.getElementById("iframe");
-iframe.src = "https://s1.elespanol.com/2023/12/07/corazon/estilo/815429088_238246449_1706x960.jpg"
+iframe.src = "https://rudo.video/live/ucvtv2"
 }
 
 
@@ -26,16 +26,18 @@ this.parentNode.parentNode.remove(); return false;
 function b(){
 	 var wdw = window.open("url-or-blank", ""); wdw.document.write("<iframe id='iframeID' class='external' src='https://rudo.video/live/ucvtv2' name='auth' scrolling='no' sandbox='allow-forms allow-orientation-lock allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-scripts allow-top-navigation allow-top-navigation-by-user-activation'></iframe> ");
 }
+
 */
 
 
 function a(){
-	 window.open("https://rudo.video/live/tvu", "iframe");
+		 window.open("https://www.aulafacil.com/uploads/cursos/6687/29098_ocdavv0.jpg", "iframe");
 }
 
 
+
 function b(){
-	 window.open("https://rudo.video/live/ucvtv2", "iframe");
+	 window.open("https://s1.elespanol.com/2023/12/07/corazon/estilo/815429088_238246449_1706x960.jpg", "iframe");
 }
 
 
@@ -76,5 +78,13 @@ https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&amp;loop=fals
 /*
 "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?jsapi=true&amp;loop=false&amp;autoplay=true&amp;controls=true&amp;player=5c0e87c403a35601ebcffcf4"
 */
+
+ 
+
+
+
+
+
+
 
  
