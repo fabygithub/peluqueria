@@ -8,7 +8,9 @@ function a2(){
 		 window.open("https://fabygithub.github.io/peluqueria/texto/balayage.html", "iframe");
 }
 
-
+function a3(){
+		 window.open("https://fabygithub.github.io/peluqueria/curso.html", "iframe");
+}
 
 
 
